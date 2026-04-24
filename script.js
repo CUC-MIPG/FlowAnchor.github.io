@@ -1,9 +1,9 @@
 /**
- * PreciseFlow Project Website - StyleAlign Style
+ * FlowAnchor Project Website - StyleAlign Style
  */
 
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('✅ PreciseFlow loaded');
+    console.log('✅ FlowAnchor loaded');
 
     // Smooth scroll for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
